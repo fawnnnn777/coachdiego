@@ -10,6 +10,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        main: "#FFDB00",
+        nav: "#00224D"
       },
     },
   },
