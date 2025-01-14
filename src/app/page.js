@@ -17,10 +17,10 @@ export default function Home() {
           width={250}
           height={250}
           ></Image>*/}
-          <iframe className="mx-auto" src="https://www.youtube.com/watch?v=1agk_MfSoQM"> </iframe>
+      <iframe className="mx-auto" width="320" height="180" src="https://www.youtube.com/embed/wQYQzYnPrtg" title="B3 CLASS EXAMPLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
-      <div id="benefits">
-        <h1>muchos benefits</h1>
+      <div id="benefits" className="mt-8">
+        <h1 className={`${raleway.className} antialiased text-5xl p-5 `} >¡Con la calidad de academias reconocidas mundialmente, a la mitad del precio!</h1>
       </div>
     </div>
   );

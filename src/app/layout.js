@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        className={`${geistSans.variable} ${geistMono.variable} antialiased bg-main`}>
         <div className="flex h-screen box-border">
         <div className="fixed bottom-0 w-screen">
           <Navbar></Navbar>
