@@ -12,7 +12,7 @@ export default function Navbar(){
     };
 
     return (
-    <div className={`h-16 lg:h-20 w-screen bg-black text-yellow box-border flex items-center justify-between p-5`}>
+    <div className={`h-16 lg:h-20 w-screen bg-black text-yellow box-border flex items-center justify-evenly p-5`}>
         <button onClick={() => scrollToSection("benefits")} className={`rounded-2xl bg-white m-2 p-2 text-blue-500 
             ${montserrat.className}`}>Beneficios</button>
         <button onClick={() => scrollToSection("price")} className={`rounded-2xl bg-white m-2 p-2 text-blue-500 
