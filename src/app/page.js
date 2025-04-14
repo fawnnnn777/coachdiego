@@ -24,7 +24,7 @@ export default function Home() {
       <div id="price">
       <h1 className={`${raleway.className} antialiased text-6xl p-5`}>¡Solo Q300 mensuales!</h1>
       <p className={`${ralewaylight.className} antialised text-2xl p-5`}>Sacale provecho a tu dinero y obtén:</p>
-      <p className={`${ralewaylight.className} antialised text-2xl m-3 p-4 rounded  text-center bg-white text-black shadow-xl`}>Clases de Lunes a Viernes con horarios que se acomodan a ti</p>
+      <p className={`${ralewaylight.className} antialised text-2xl m-3 p-4 rounded  text-center bg-white text-black shadow-xl`}>Clases de Lunes, Miercoles y Viernes con horarios que se acomodan a ti</p>
       <p className={`${ralewaylight.className} antialised text-2xl m-3 p-4 rounded  text-center bg-white text-black shadow-xl`}>Material y guías de practica para ayudarte a alcanzar tu meta</p>
       <p className={`${ralewaylight.className} antialised text-2xl m-3 p-4 rounded  text-center bg-white text-black shadow-xl`}>Asesoría privada mensual para evaluar tus áreas de mejora</p>
       <h1 className={`${raleway.className} antialiased text-6xl p-5`}>¡Pregunta por el descuento del primer mes! <FaArrowDown className="float-right pr-5"/>
