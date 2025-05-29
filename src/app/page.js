@@ -23,7 +23,7 @@ export default function Home() {
         <p className={`${ralewaylight.className} antialised text-2xl m-5 px-5 border-2 border-black rounded  text-center bg-black text-white shadow-xl`}><i>"Él es buen coach, porque conoce las debilidades de cada uno de sus estudiantes, y sé enfoca en ayudar a superarlas, tiene buena actitud siempre, siempre nos motiva, se toma el tiempo para el feedback, y aprovecha cada segundo de la clase para que todos participemos, indudablemente Él es el mejor"</i></p>
       </div>
       <div id="price">
-      <h1 className={`${raleway.className} antialiased text-6xl p-5`}>¡Solo Q300 mensuales!</h1>
+      <h1 className={`${raleway.className} antialiased text-6xl p-5`}>¡Solo Q400/$45 mensuales!</h1>
       <p className={`${ralewaylight.className} antialised text-2xl p-5`}>Sacale provecho a tu dinero y obtén:</p>
       <p className={`${ralewaylight.className} antialised text-2xl m-3 p-4 rounded  text-center bg-white text-black shadow-xl`}>Clases de Lunes a Viernes con horarios que se acomodan a ti</p>
       <p className={`${ralewaylight.className} antialised text-2xl m-3 p-4 rounded  text-center bg-white text-black shadow-xl`}>Material y guías de practica para ayudarte a alcanzar tu meta</p>
